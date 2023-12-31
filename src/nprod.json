@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Almonds",
+        "image": "/images/almonds.jpeg",
+        "description": "Almonds are rich in healthy fats, fiber, and vitamin E, which promote heart health and support skin health. They also help to lower the risk of chronic diseases.",
+        "price": 45,
+        "amount":1,
+        "stock":5
+    },        
+    {
+        "id": "2",
+        "name": "Cashews",
+        "image": "/images/cashew.jpg",
+        "description": "Cashews are a good source of healthy fats and minerals like copper and magnesium, which support heart health and bone health. They also provide antioxidants.",
+        "price": 45,
+        "amount":1,
+        "stock":9
+    },        
+    {
+        "id": "3",
+        "name": "Walnuts",
+        "image": "/images/walnut.jpg",
+        "description": "Walnuts are rich in omega-3 fatty acids, which support brain health and reduce inflammation. They also contain antioxidants and polyphenols ",
+        "amount":1,
+        "stock":10
+    },        
+    {
+        "id": "4",
+        "name": "Peanuts",
+        "image": "/images/peanuts.jpg",
+        "description": "Peanuts are a good source of protein and healthy fats, promoting satiety and supporting muscle growth and repair. ",
+        "price": 45,
+        "amount":1,
+        "stock":6
+    },        
+    {
+        "id": "5",
+        "name": "Pumpkin seeds",
+        "image": "/images/pumkin_seeds.jpg",
+        "description": "Pumpkin seeds are packed with nutrients like magnesium and zinc, which support immune function and promote healthy sleep.",
+        "price": 45,
+        "amount":1,
+        "stock":10
+    },        
+    {
+        "id": "6",
+        "name": "Pista",
+        "image": "/images/pista.jpeg",
+        "description": "Pistachios, or pista, are nutrient-dense nuts that provide fiber and healthy fats, supporting heart health and aiding in weight management. ",
+        "price": 45,
+        "amount":1,
+        "stock":8
+    },        
+    {
+        "id": "7",
+        "name": "Hazel nuts",
+        "image": "/images/hazel_nuts.jpg",
+        "description": "Hazelnuts are rich in healthy fats and vitamin E, which support heart health and help protect against oxidative stress. ",
+        "price": 45,
+        "amount":1,
+        "stock":11
+    },        
+    {
+        "id": "8",
+        "name": "Chest nuts",
+        "image": "/images/chestnuts.jpg",
+        "description": "Chestnuts are a good source of fiber, promoting digestive health and aiding in weight management and support immune function and heart health.",
+        "price": 45,
+        "amount":1,
+        "stock":10
+    },        
+    {
+        "id": "9",
+        "name": "Coffee nuts",
+        "image": "/images/coffee.jpeg", 
+        "description": "Coffee beans, not coffee nuts, are typically used to make coffee. However, coffee beans contain caffeine that can increase alertness and cognitive function.",
+        "price": 45,
+        "amount":1,
+        "stock":30
+    }      
+]
